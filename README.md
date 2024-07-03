@@ -84,6 +84,6 @@ EX) 팀랭킹
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     전기공학과 24 조은별   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     컴퓨터정보공학부 24 이재현   
        
-OB 37기(!) 전자융합공학과 17 배주현
+OB 37기(!) 전자재료공학과 17 배주현
 
 
