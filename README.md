@@ -1,4 +1,13 @@
-# 2024 광운대학교 아마야구반 웹사이트 제작
+# &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2024 광운대학교 아마야구반 웹사이트 제작
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img width="203" alt="로고" src="https://github.com/HeeJuKang1027/KW_Baseball/assets/112617468/82d472fd-edad-4b0c-a7fe-2df26ad114ac">
+
+#
+
+
+
+
+
 
 ## 목차
 [1. 목표와 기능](#1-목표와-기능)
@@ -8,7 +17,7 @@
 [3. 팀원 소개](#3-팀원-소개)   
 
 
-### 목표와 기능
+## 목표와 기능
 2023년 12월초에 서버 호스팅이 만료되어 사라진 광운대학교 아마야구반의 웹사이트를 제작한다.   
 현재 웹사이트의 대용으로 사용하고 있는 네이버 카페 이상의 기능과 편의성을 갖는 것을 목표로 한다.   
 
@@ -20,12 +29,12 @@
 
 
 
-### 개발 기간
-2024년 7월부터 2학기가 시작되고 나서도 꾸준히 개발을 이어나갈 예정이다.
+## 개발 기간
+2024년 하계 여름방학(7월)부터 2학기가 시작되고 나서도 꾸준히 개발을 이어나갈 예정이다.
 
 
 
-### 팀원 소개
+## 팀원 소개
 
 39기 소프트웨어학부 19 강희주
 
@@ -34,12 +43,12 @@
 41기 로봇학부 21 최강민
 
 43기 소프트웨어학부 23 양민우   
-     소프트웨어학부 23 이준용
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     소프트웨어학부 23 이준용
      
 44기 정보융합학부 24 김건희   
-     소프트웨어학부 24 남규형   
-     전기공학과 24 조은별   
-     컴퓨터정보공학부 24 이재현   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     소프트웨어학부 24 남규형   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     전기공학과 24 조은별   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     컴퓨터정보공학부 24 이재현   
        
 OB 37기(!) 전자융합공학과 17 배주현
 
