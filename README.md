@@ -70,20 +70,20 @@ EX) 팀랭킹
 
 광운대학교
 
-39기 소프트웨어학부 19 강희주
+39기 소프트웨어학부 19 강희주 (풀스택)   
 
-40기 전자융합공학과 20 이종현
+40기 전자융합공학과 20 이종현 (백엔드)   
 
-41기 로봇학부 21 최강민
+41기 로봇학부 21 최강민 (백엔드)   
 
-43기 소프트웨어학부 23 양민우   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     소프트웨어학부 23 이준용
+43기 소프트웨어학부 23 양민우 (프론트엔드)     
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     소프트웨어학부 23 이준용 (프론트엔드)   
      
-44기 정보융합학부 24 김건희   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     소프트웨어학부 24 남규형   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     전기공학과 24 조은별   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     컴퓨터정보공학부 24 이재현   
+44기 정보융합학부 24 김건희 (풀스택)      
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     소프트웨어학부 24 남규형 (프론트엔드)     
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     컴퓨터정보공학부 24 이재현 (백엔드)      
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;     전기공학과 24 조은별 (백엔드)      
        
-OB 37기(!) 전자재료공학과 17 배주현
+OB 37기(!) 전자재료공학과 17 배주현 (백엔드)   
 
 
